@@ -5,9 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vthirumurthy&color=grey)
 ![GitHub Followers](https://img.shields.io/github/followers/vthirumurthy?style=social)
 
-# Hi there! 👋 I'm Vish Thirumurthy 
-
-I am a results-driven technologist, strategist, and entrepreneur with a global mindset, having successfully led business ventures in 28 countries. My passion revolves around applying technology to solve significant problems at scale. Let's dive into what defines me:
+A results-driven technologist, strategist, and entrepreneur with a global mindset, having successfully led business ventures in 28 countries. My passion revolves around applying technology to solve significant problems at scale. Let's dive into what defines me:
 
 ## 🚀 What Sets Me Apart:
 
