@@ -76,7 +76,6 @@ I am a results-driven technologist, strategist, and entrepreneur with a global m
 
 Let's explore how we can collaborate on projects that push the boundaries of what's possible! 🚀
 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedInLink)](https://www.linkedin.com/in/vthirumurthy)
-[![Twitter Badge](https://img.shields.io/badge/-YourTwitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=YourTwitterLink)](https://twitter.com/vthirumurthy)
-[![Instagram Badge](https://img.shields.io/badge/-YourInstagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=YourInstagramLink)](YourInstagramLink)
+[![LinkedIn Badge](https://img.shields.io/badge/-My LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedInLink)](https://www.linkedin.com/in/vthirumurthy)
+[![Twitter Badge](https://img.shields.io/badge/-MyTwitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=YourTwitterLink)](https://twitter.com/vthirumurthy)
 
