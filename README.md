@@ -12,16 +12,16 @@ A results-driven technologist, strategist, and entrepreneur with a global mindse
 - **Versatility:** Experience in private equity, M&A, fiscal discipline, and P&L responsibilities, I bring a versatile skill set to the table.
 - **Tech Enthusiast:** Swiftly absorbing and applying new technologies, I craft sustainable business models that make a difference.
 
-### About Me
+#### About Me
 - **Principled and Values-Driven Leader:** Guided by strong principles and values, I lead with integrity and a commitment to excellence.
 - **Versatile Industry Experience:** Navigating various industries, I specialize in cloud-scale solutions, with expertise in AI, cloud computing, edge technologies, UX design, and database management.
 - **Disruptive Innovation Advocate:** Challenging the status quo, I embrace sustainability and strive to make a positive impact on the world.
 
-### How I Lead
+#### How I Lead
 - **Leadership Style:** Principled, action-oriented, and empowering, I lead by example.
 - **Team Focus:** Fueled by hiring great talent, coaching high-performance teams, and fostering trust.
 
-### Technology Experience
+#### Technology Experience
 - **AI:** Leveraging artificial intelligence to drive innovation.
 - **Cloud Computing:** Designing scalable and robust cloud solutions.
 - **Edge Technologies:** Pushing boundaries with edge computing.
@@ -51,13 +51,13 @@ A results-driven technologist, strategist, and entrepreneur with a global mindse
     </tr>
 </table>
 
-### Career Metrics
+#### Career Metrics
 - **Progressive Growth:** Taking on increasing responsibilities, I deliver on KPIs such as product shipping, market penetration, and customer satisfaction.
 - **Market Expansion:** Identifying and penetrating new markets, exploring geographies, and achieving market share growth.
 - **Financial Discipline:** Zero-based budgets ("ZBB") and fiscal responsibility within ± 3% of the quarterly plan.
 
-### Let's Connect!
-Let's explore how we can collaborate on projects that push the boundaries of what's possible! 🚀
+#### Let's Connect!
+Let's explore how we can collaborate on projects that push the boundaries of what's possible!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedInLink)](https://www.linkedin.com/in/vthirumurthy)
 [![Twitter Badge](https://img.shields.io/badge/-MyTwitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=YourTwitterLink)](https://twitter.com/vthirumurthy)
