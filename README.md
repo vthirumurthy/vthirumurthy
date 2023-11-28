@@ -21,9 +21,7 @@ A results-driven technologist, strategist, and entrepreneur with a global mindse
 - **Leadership Style:** Principled, action-oriented, and empowering, I lead by example.
 - **Team Focus:** Fueled by hiring great talent, coaching high-performance teams, and fostering trust.
 
-## Technologies & Languages
-
-### Technology Experience
+## Technology Experience
 - **AI:** Leveraging artificial intelligence to drive innovation.
 - **Cloud Computing:** Designing scalable and robust cloud solutions.
 - **Edge Technologies:** Pushing boundaries with edge computing.
