@@ -7,7 +7,7 @@
 
 A results-driven technologist, strategist, and entrepreneur with a global mindset, having successfully led business ventures in 28 countries. My passion revolves around applying technology to solve significant problems at scale. Let's dive into what defines me:
 
-### What Sets Me Apart
+#### What Sets Me Apart
 - **Global Impact:** A seasoned leader and C-level advisor, crafting win-win scenarios for customers and partners on a global scale.
 - **Versatility:** Experience in private equity, M&A, fiscal discipline, and P&L responsibilities, I bring a versatile skill set to the table.
 - **Tech Enthusiast:** Swiftly absorbing and applying new technologies, I craft sustainable business models that make a difference.
