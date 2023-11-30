@@ -2,7 +2,7 @@
 
 <br>
 
-#### Connect with Vish Thirumurthy
+#### Connect with Me
 I would love to explore collaborating on technology projects that push the boundaries of what's possible.
 <p align="center">
   <a href="https://twitter.com" target="_blank">
