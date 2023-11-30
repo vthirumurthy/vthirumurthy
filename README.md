@@ -21,18 +21,16 @@ I would love to explore collaborating on technology projects that push the bound
 
 I am a results-driven technologist, strategist, and entrepreneur with a global mindset, having successfully led business ventures in 28 countries. My passion revolves around applying technology to solve significant problems at scale. Let's dive into what defines me:
 
-#### What Sets Me Apart
-- **Global Impact:** A seasoned leader and C-level advisor, crafting win-win scenarios for customers and partners on a global scale.
-- **Versatility:** Experience in private equity, M&A, fiscal discipline, and P&L responsibilities, I bring a versatile skill set to the table.
-- **Tech Enthusiast:** Swiftly absorbing and applying new technologies, I craft sustainable business models that make a difference.
-
 #### About Me
-- **Principled and Values-Driven Leader:** Guided by strong principles and values, I lead with integrity and a commitment to excellence.
-- **Versatile Industry Experience:** Navigating various industries, I specialize in cloud-scale solutions, with expertise in AI, cloud computing, edge technologies, UX design, and database management.
-- **Disruptive Innovation Advocate:** Challenging the status quo, I embrace sustainability and strive to make a positive impact on the world.
+- **Global Impact:** A seasoned leader, crafting win-win scenarios for customers and partners on a global scale.
+- **Versatility:** Experience in private equity, M&A, P&L, and fiscal discipline; I bring a versatile skill set to the table.
+- **Tech Enthusiast:** Swiftly absorbing and applying new technologies, I craft durable and sustainable GTMs and business models.
+- **Principled and Values-Driven:** Guided by strong principles and values, I lead with integrity and a commitment to excellence.
+- **Versatile Industry Experience:** I specialize in cloud-scale solutions coupled with my deep industry expertise.
+- **Disruptive Innovation Advocate:** I embrace sustainability and disruptive thinking, and strive to make a difference.
 
 #### How I Lead
-- **Leadership Style:** Principled, action-oriented, and empowering, I lead by example.
+- **Leadership Style:** Principled, autheentic, action-oriented, and empowering, I lead by example.
 - **Team Focus:** Fueled by hiring great talent, coaching high-performance teams, and fostering trust.
 
 #### Technology Experience
