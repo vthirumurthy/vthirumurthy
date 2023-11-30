@@ -2,9 +2,8 @@
 
 <br>
 
-#### Let's Connect!
-Let's explore how we can collaborate on projects that push the boundaries of what's possible!
-
+#### Let's Connect
+I would love to explore collaborating on technology projects that push the boundaries of what's possible.
 <p align="center">
   <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=388D5C" alt="Twitter"/>
@@ -23,8 +22,7 @@ Let's explore how we can collaborate on projects that push the boundaries of wha
 </a>
 </p>
 
-# Hi there! 👋 I'm Vish Thirumurthy 
-
+# Hi there! I'm Vish Thirumurthy 
 A results-driven technologist, strategist, and entrepreneur with a global mindset, having successfully led business ventures in 28 countries. My passion revolves around applying technology to solve significant problems at scale. Let's dive into what defines me:
 
 #### What Sets Me Apart
@@ -49,7 +47,6 @@ A results-driven technologist, strategist, and entrepreneur with a global mindse
 - **Database Management:** Expertise in deploying and optimizing databases.
 
 #### Programming Languages
-
 <div>
     <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
