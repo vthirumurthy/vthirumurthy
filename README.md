@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/blog-application-16fb6.appspot.com/o/Images%2F233159bd-d35e-4dea-9b61-3fe82f1c6bf3?alt=media&token=a31e44dd-d478-4065-be46-3b2fa95b0967">
+<img src="https://firebasestorage.googleapis.com/v0/b/blog-application-16fb6.appspot.com/o/Images%2F23c87a19-47d0-42ed-8737-41cae7ee0056?alt=media&token=54ea9665-6648-4392-a55b-6b548ce8356e">
 
 <br>
 
@@ -22,6 +22,8 @@ Let's explore how we can collaborate on projects that push the boundaries of wha
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=388D5C" alt="website"/>
 </a>
 </p>
+
+# Hi there! 👋 I'm Vish Thirumurthy 
 
 A results-driven technologist, strategist, and entrepreneur with a global mindset, having successfully led business ventures in 28 countries. My passion revolves around applying technology to solve significant problems at scale. Let's dive into what defines me:
 
