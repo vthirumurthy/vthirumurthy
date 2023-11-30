@@ -2,7 +2,7 @@
 
 <br>
 
-#### Let's Connect
+#### Connect with Vish Thirumurthy
 I would love to explore collaborating on technology projects that push the boundaries of what's possible.
 <p align="center">
   <a href="https://twitter.com" target="_blank">
@@ -22,8 +22,7 @@ I would love to explore collaborating on technology projects that push the bound
 </a>
 </p>
 
-### Hi there! I'm Vish Thirumurthy 
-A results-driven technologist, strategist, and entrepreneur with a global mindset, having successfully led business ventures in 28 countries. My passion revolves around applying technology to solve significant problems at scale. Let's dive into what defines me:
+I am a results-driven technologist, strategist, and entrepreneur with a global mindset, having successfully led business ventures in 28 countries. My passion revolves around applying technology to solve significant problems at scale. Let's dive into what defines me:
 
 #### What Sets Me Apart
 - **Global Impact:** A seasoned leader and C-level advisor, crafting win-win scenarios for customers and partners on a global scale.
