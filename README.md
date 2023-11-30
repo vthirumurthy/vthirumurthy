@@ -5,20 +5,17 @@
 #### Connect with Me
 I would love to explore collaborating on technology projects that push the boundaries of what's possible.
 <p align="center">
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://twitter.com/vthirumurthy" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=388D5C" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/vthirumurthy/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=388D5C" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=388D5C" alt="Instagram"/>
-  </a>
-  <a href="https://tev5.com/" target="_blank">
+   <a href="https://tev5.com/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=388D5C" alt="website"/>
   </a>
     <a href="mailto:ceo@tev5.com" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=388D5C" alt="website"/>
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=388D5C" alt="email"/>
 </a>
 </p>
 
