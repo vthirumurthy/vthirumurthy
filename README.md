@@ -4,7 +4,7 @@
 
 #### Connect with Me
 I would love to explore collaborating on technology projects that push the boundaries of what's possible.
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/vthirumurthy" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=388D5C" alt="Twitter"/>
   </a>
@@ -15,7 +15,7 @@ I would love to explore collaborating on technology projects that push the bound
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=388D5C" alt="website"/>
   </a>
     <a href="mailto:ceo@tev5.com" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=388D5C" alt="email"/>
+  <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=e&logoColor=white&color=388D5C" alt="email"/>
 </a>
 </p>
 
@@ -42,11 +42,12 @@ I am a results-driven technologist, strategist, and entrepreneur with a global m
 
 #### Programming Languages
 <div>
-    <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="cursor: default;">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="cursor: default;">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="cursor: default;">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="cursor: default;">
 </div>
+
 
 
 #### Career Metrics
